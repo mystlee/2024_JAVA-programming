@@ -24,7 +24,7 @@ hs_err_pid*
 replay_pid*
 
 # solutions
-src/chapter5/
+# src/chapter5/
 src/chapter6/
 src/chapter7/
 src/chapter8/
